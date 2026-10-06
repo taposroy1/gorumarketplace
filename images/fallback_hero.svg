@@ -1,0 +1,22 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%">
+  <defs>
+    <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="40%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#heroBg)"/>
+  <circle cx="600" cy="300" r="260" fill="#ffffff" opacity="0.05"/>
+  <circle cx="600" cy="300" r="180" fill="#ffffff" opacity="0.04"/>
+  <text x="600" y="290" font-family="'Hind Siliguri', sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    গরু বাজার (Goru Bazar)
+  </text>
+  <text x="600" y="350" font-family="'Hind Siliguri', sans-serif" font-size="24" fill="#a7f3d0" text-anchor="middle">
+    বাংলাদেশের প্রথম ও বিশ্বস্ত আধুনিক ডিজিটাল গবাদিপশু মার্কেটপ্লেস
+  </text>
+  <text x="600" y="400" font-family="'Hind Siliguri', sans-serif" font-size="18" fill="#d1fae5" text-anchor="middle">
+    যাচাইকৃত খামারি · এসক্রো অ্যাডভান্স পেমেন্ট · কোরবানি ও ডেইরি ক্যাটল
+  </text>
+</svg>
